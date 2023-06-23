@@ -1,1 +1,2 @@
-# facial_emotion_recognition
+# Facial Emotion Recognition
+A subset of emotion AI called facial emotion recognition (FER) aims to identify emotions from facial expressions. Based on object and motion detection, AI uses machine learning or deep learning techniques to identify emotions. The machine treats the human face as an object, studying the characteristics (brows, eyes, lips, etc.), noting their placement, and keeping track of their motions for a while. Then, it compares the expression to a previously learnt emotion.
